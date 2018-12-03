@@ -31,3 +31,8 @@ https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-cheat-s
 
 DSVM (FYI)
 https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/
+
+
+Automated ML
+
+--extra-index-url https://azuremlsdktestpypi.azureedge.net/sdk-release/Candidate/604C89A437BA41BD942B4F46D9A3591D azureml-sdk[automl_databricks] 
