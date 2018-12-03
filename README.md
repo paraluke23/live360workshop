@@ -25,5 +25,9 @@ Clone this
 https://notebooks.azure.com/azureml/projects/azureml-getting-started 
 
 
+ML cheat sheet  
+https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-cheat-sheet
+
+
 DSVM (FYI)
 https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/
