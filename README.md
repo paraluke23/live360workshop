@@ -21,5 +21,9 @@ https://docs.azuredatabricks.net/getting-started/quick-start.html
 Azure Notebooks (3rd)
 https://notebooks.azure.com/
 
+Clone this   
+https://notebooks.azure.com/azureml/projects/azureml-getting-started 
+
+
 DSVM (FYI)
 https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/
