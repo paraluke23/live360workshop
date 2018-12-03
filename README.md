@@ -7,7 +7,7 @@ Cognitive services (FYI)
 https://azure.microsoft.com/en-us/services/cognitive-services/
 
 qna maker (1st)
-portal.azure.com
+https://www.qnamaker.ai/
 https://live360events.com/events/orlando-2018/information/exhibitor-faq.aspx
 
 Azure ML SDK with Databricks (2nd)
