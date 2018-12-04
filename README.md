@@ -12,7 +12,7 @@ https://www.qnamaker.ai/
 https://live360events.com/events/orlando-2018/information/exhibitor-faq.aspx
 
 Azure ML SDK with Databricks  
-**azureml-sdk[databricks]  **  
+**azureml-sdk[databricks]**   
 https://azure.microsoft.com/en-us/services/databricks/
 
 Databricks - getting started
