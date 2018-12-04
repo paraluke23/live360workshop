@@ -11,8 +11,8 @@ https://www.qnamaker.ai/
 
 https://live360events.com/events/orlando-2018/information/exhibitor-faq.aspx
 
-Azure ML SDK with Databricks (2nd)
-azureml-sdk[databricks]
+Azure ML SDK with Databricks  
+azureml-sdk[databricks]  
 https://azure.microsoft.com/en-us/services/databricks/
 
 Databricks - getting started
@@ -32,12 +32,7 @@ https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-cheat-s
 DSVM (FYI)
 https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/
 
-Automated ML
-
-Today only:
---extra-index-url https://azuremlsdktestpypi.azureedge.net/sdk-release/Candidate/604C89A437BA41BD942B4F46D9A3591D azureml-sdk[automl_databricks]
-
-Tomorrow++:
+Automated ML SDK to install on Databricks
 azureml-sdk[automl_databricks]
 
 
