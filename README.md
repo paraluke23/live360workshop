@@ -12,7 +12,7 @@ https://www.qnamaker.ai/
 https://live360events.com/events/orlando-2018/information/exhibitor-faq.aspx
 
 Azure ML SDK with Databricks  
-azureml-sdk[databricks]  
+**azureml-sdk[databricks]  **  
 https://azure.microsoft.com/en-us/services/databricks/
 
 Databricks - getting started
@@ -32,8 +32,8 @@ https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-cheat-s
 DSVM (FYI)
 https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/
 
-Automated ML SDK to install on Databricks
-azureml-sdk[automl_databricks]
+Automated ML SDK to install on Databricks  
+**azureml-sdk[automl_databricks]**
 
 
 Professional programs
