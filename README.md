@@ -13,7 +13,8 @@ https://live360events.com/events/orlando-2018/information/exhibitor-faq.aspx
 
 Azure ML SDK with Databricks  
 **azureml-sdk[databricks]**   
-https://azure.microsoft.com/en-us/services/databricks/
+Notebooks - https://github.com/Azure/MachineLearningNotebooks 
+Docs - https://docs.microsoft.com/en-us/azure/machine-learning/service/ 
 
 Databricks - getting started
 https://docs.azuredatabricks.net/getting-started/quick-start.html
@@ -23,7 +24,6 @@ https://notebooks.azure.com/
 
 Clone this   
 https://notebooks.azure.com/azureml/projects/azureml-getting-started 
-
 
 ML cheat sheet  
 https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-cheat-sheet
